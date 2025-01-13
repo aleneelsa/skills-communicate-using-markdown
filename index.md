@@ -5,22 +5,15 @@
 
 
 
-
-
-
-
-
-
-
-
-
 /I have added two heading to this empty file.
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-
+``` javascript
+var myVar = "my,new!";
+```
 
 
 
